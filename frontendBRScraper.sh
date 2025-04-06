@@ -7,6 +7,7 @@
 # ./frontendBRScraper.sh
 
 
+
 API_URL="https://api.github.com/repos/frontendbr/vagas/issues"
 LIMIT="https://api.github.com/rate_limit"
 

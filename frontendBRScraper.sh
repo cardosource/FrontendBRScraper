@@ -60,4 +60,4 @@ vagasAbertas() {
     fi
 }
 
-vagasAbertas "Pleno" "pj" "PJ"
+vagasAbertas $@
